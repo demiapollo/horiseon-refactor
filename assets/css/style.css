@@ -148,6 +148,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* This is an h4 now in the footer. */
+footer h4 {
     font-size: 20px;
 }
