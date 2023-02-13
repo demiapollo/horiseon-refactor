@@ -6,7 +6,7 @@ In this refactoring process I made the following changes:
   I grouped images, classes, and headings together when they shared the same specifications.
 
 # Website screenshot
-[![horiseon site refactored screenshot](https://github.com/demiapollo/horiseon-refactor/blob/master/Horiseon_Site_Screenshot.png)]
+![horiseon site refactored screenshot](Horiseon_Site_Screenshot.png)
 
 # The deployed website link
 https://demiapollo.github.io/horiseon-refactor/
